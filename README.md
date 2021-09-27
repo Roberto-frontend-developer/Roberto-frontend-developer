@@ -1,16 +1,30 @@
-### Hi there 👋
 
-<!--
-**Roberto-frontend-developer/Roberto-frontend-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align=center>
+  
+  # <div>👋 Olá, seja bem-vindo(a) ao meu Repositório!</div>
+  <p>
+    Sou apaixonado por tecnologia. Estou em busca de uma oportunidade no mercado de trabalho.
+  </p>
 
-Here are some ideas to get you started:
+  <p> 👇 Acesse meu Linkedin 👇 </p>
+  
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]("https://www.linkedin.com/in/roberto-silva-58965b15b)
+      
+    
+  
+  
+  #  🚀 Tecnologias em que tenho habilidade   
+  <p>
+    <img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5">
+    <img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3">
+    <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow?style=for-the-badge&logo=javascript">
+    <img src="https://img.shields.io/badge/-GIT-orange?style=for-the-badge&logo=git">
+  </p>
+  
+  #  
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roberto-frontend-developer&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  <br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roberto-frontend-developer&layout=compact&hide=php,java&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
