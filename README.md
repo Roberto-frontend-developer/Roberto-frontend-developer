@@ -3,7 +3,7 @@
   
   # <div>👋 Olá, seja bem-vindo(a) ao meu Repositório!</div>
   <p>
-    Sou apaixonado por tecnologia. Estou em busca de uma oportunidade no mercado de trabalho.
+    Desenvolvedor Front-End
   </p>
 
   <p> 👇 Acesse meu Linkedin 👇 </p>
